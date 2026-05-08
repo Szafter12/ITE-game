@@ -27,7 +27,7 @@ This project was developed for the "Introduction to Computer Science" university
 * **Resource Management:** Loading and disposing of assets efficiently without causing memory leaks or stuttering.
     * **Solution:** Developed a central Resource Manager to handle textures and sounds, ensuring each asset is loaded only once and remains accessible throughout the game life cycle.
 
-### Setup or usage instructions
+### Setup
 
 1. **Clone & Build:**
 ```bash
